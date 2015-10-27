@@ -1,0 +1,8 @@
+{
+    "com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle": { 
+        "default": { "up": "button" , "down": "button", "font": font, "pressedOffsetY": -4 }
+    },
+    "com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle": {
+        "default": { "font": font}
+    }
+} 
